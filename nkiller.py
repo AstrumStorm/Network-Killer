@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#By: lughz4n
+#By: AstrumStorm
 
 import os
 import time
